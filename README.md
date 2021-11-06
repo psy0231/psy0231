@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ### ✍🏻 Record
 
-[![GitHub Pages](https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white)](https://gitlab.com/psy72006300)
+[![GitHub Pages](https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white)](https://psy0231.github.io/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psy0231&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
