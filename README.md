@@ -18,8 +18,19 @@ Here are some ideas to get you started:
       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명 &theme=default&show_icons=true)
 
 
-https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+- https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
+- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile
+
+- https://github.com/anuraghazra/github-readme-stats
+
+- https://github.com/bokub/github-stats-box
+
+- https://fernando.kr/develop/2020-05-02-github-gist-posting/
+
+- http://blog.cowkite.com/blog/2102241544/
 -->
 
 
@@ -57,4 +68,6 @@ https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA
 
 [![GitHub Pages](https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white)](https://gitlab.com/psy72006300)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psy0231)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psy0231&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# ECT
