@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 ### 🛠️ Tech  
    
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
-[![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://www.devexpress.com)
+
 ### 🧰 Tool
 
 [![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)](https://visualstudio.microsoft.com/ko/)
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
+[![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://www.devexpress.com)
 [![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white)](https://www.jetbrains.com/ko-kr/rider/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com)
